@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Oráculo</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="div-card">
+      <img src="./images/oraculo.png" alt="Olho oraculo" class="oraculo">
+      <h3 id="outMensage">Veja o que o oráculo tem a dizer!</h3>
+      <div id="infoId">
+         <img id="iconBook" src="./images/book.svg" alt="book"><span id="outId"></span></div>
+    </div>
+    <button onclick="gerarConselhos()">Gerar Conselhos aleatorio</button>
+    <button onclick="buscarConselhos()">Pesquisar por número</button>
+    <div id = "pesquisar"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
