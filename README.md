@@ -1,4 +1,4 @@
 Atividade desenvolvida SENAC SC para treinar os conhecimentos consumo simples de API publica e manipulação do DOM. 
 Tecnologias: HTML, CSS, JS.
 
-*Aplicação: [!imagem_site](./images/image.png)
+*Aplicação: ![Aplicação](URL_da_imagem)
